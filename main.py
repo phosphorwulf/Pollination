@@ -22,11 +22,11 @@ GENERATIONS = 100
 GOAL_X, GOAL_Y = WIDTH - 30, HEIGHT - 30
 
 # Colors
-BACKGROUND_COLOR = "light green"
-DOT_COLOR = "black"
-GOAL_COLOR = "orange"
-BEST_DOT_COLOR = "yellow"
-OBSTACLE_COLOR = "gray"
+BACKGROUND_COLOR = "LIGHT GREEN"
+DOT_COLOR = "BLACK"
+GOAL_COLOR = "ORANGE"
+BEST_DOT_COLOR = "YELLOW"
+OBSTACLE_COLOR = "GRAY"
 
 class Obstacle:
     """Represents a rectangular obstacle."""
